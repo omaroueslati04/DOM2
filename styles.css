@@ -1,0 +1,31 @@
+.card {
+    display: flex;
+}
+
+.card img {
+    width: 100px;
+}
+
+.cards {
+    margin: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.unitt-price {
+    margin-left: 150px;
+}
+
+i {
+    cursor: pointer;
+}
+
+
+/* Total price  */
+
+.total-price-container {
+    text-align: center;
+    margin-bottom: 100px;
+}
